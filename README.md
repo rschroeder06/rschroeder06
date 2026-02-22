@@ -1,4 +1,3 @@
-[<img align="left" alt="LinkedIn" width="50px" src="https://github.com/rschroeder06/.github/blob/main/profile/images/LI-In-Bug.png" />](https://www.linkedin.com/in/ryan-schröder/)
 [<img align="left" alt="Microsoft Learn" width="40px" src="https://github.com/rschroeder06/.github/blob/main/profile/images/ms-learn-logo.png" />](https://learn.microsoft.com/en-us/users/ryanschroeder)
 
 <br />
