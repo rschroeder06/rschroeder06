@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋, I'm **Ryan**!
 
-<!--
-**rschroeder06/rschroeder06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in **administrative support** and am currently expanding my skills toward **IT administration** and **AI engineering**.  
+I'm passionate about **AI technologies**, **automation**, and building structured, scalable workflows inspired by Microsoft’s engineering culture.
 
-Here are some ideas to get you started:
+Most of my repositories reflect my learning journey across:
+- 🧠 AI & machine learning fundamentals  
+- 🛠️ administration, automation & workflow optimization  
+- 📘 Microsoft Learn certifications and hands‑on labs  
+- 💻 open‑source tools and personal productivity projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm actively developing my skills in **Azure**, **AI engineering**, and **administration**, with a strong focus on building a solid technical foundation for future roles in cloud, automation, and AI‑driven systems.
+
+If you're interested in my learning progress, you can check out my Microsoft Learn profile here:  
+👉 **https://learn.microsoft.com/en-us/users/ryanschroeder**
