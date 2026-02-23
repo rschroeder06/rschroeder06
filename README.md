@@ -1,8 +1,3 @@
-[<img align="left" alt="Microsoft Learn" width="40px" src="https://github.com/rschroeder06/.github/blob/main/profile/images/ms-learn-logo.png" />](https://learn.microsoft.com/en-us/users/ryanschroeder)
-
-<br />
-<br />
-
 Hi 👋, I'm **Ryan**!
 
 I work in **administrative support** and am currently expanding my skills toward **IT administration** and **AI engineering**.  
